@@ -1,0 +1,3 @@
+<map id="util::validerCodeIsbn" name="util::validerCodeIsbn">
+<area shape="rect" id="node1" title="vérifie la validité du code ISBN&#45;13 doit commencer pas ISBN si longueur == 5 + 13 + 4 si longueur 13 ..." alt="" coords="5,29,161,56"/>
+</map>

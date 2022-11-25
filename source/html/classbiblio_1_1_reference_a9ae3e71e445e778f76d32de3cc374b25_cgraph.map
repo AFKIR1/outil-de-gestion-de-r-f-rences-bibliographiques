@@ -1,0 +1,5 @@
+<map id="biblio::Reference::reqReferenceFormate" name="biblio::Reference::reqReferenceFormate">
+<area shape="rect" id="node1" title="visualiser les informations correspondantà une référence formatées" alt="" coords="5,39,168,80"/>
+<area shape="rect" id="node2" href="$classbiblio_1_1_reference.html#afc51566feab2626f21716e8148b95d8d" title="retourner le nom de l&#39;auteur" alt="" coords="216,5,356,47"/>
+<area shape="rect" id="node3" href="$classbiblio_1_1_reference.html#a25ed1a8539e28ada835e236a2ee52910" title="retourner le titre de reference" alt="" coords="216,71,356,112"/>
+</map>

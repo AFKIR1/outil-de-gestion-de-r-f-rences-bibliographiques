@@ -1,0 +1,8 @@
+<map id="biblio::Ouvrage::reqReferenceFormate" name="biblio::Ouvrage::reqReferenceFormate">
+<area shape="rect" id="node1" title="visualiser les informations correspondantà une référence formatées" alt="" coords="5,71,221,112"/>
+<area shape="rect" id="node2" href="$classbiblio_1_1_reference.html#adcf4b47dfbd090e0da711a3167aaf7ab" title="retourner l&#39;annee d&#39;edition" alt="" coords="281,5,421,47"/>
+<area shape="rect" id="node3" href="$classbiblio_1_1_reference.html#a2d5a28f86a4d01ff129ffc4b2f78e47b" title="retourner l&#39;identifiant" alt="" coords="281,71,421,112"/>
+<area shape="rect" id="node4" href="$classbiblio_1_1_reference.html#a9ae3e71e445e778f76d32de3cc374b25" title="visualiser les informations correspondantà une référence formatées" alt="" coords="269,136,432,177"/>
+<area shape="rect" id="node5" href="$classbiblio_1_1_reference.html#afc51566feab2626f21716e8148b95d8d" title="retourner le nom de l&#39;auteur" alt="" coords="480,103,620,144"/>
+<area shape="rect" id="node6" href="$classbiblio_1_1_reference.html#a25ed1a8539e28ada835e236a2ee52910" title="retourner le titre de reference" alt="" coords="480,168,620,209"/>
+</map>
